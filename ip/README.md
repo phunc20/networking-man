@@ -7,3 +7,5 @@
     - **Miyama - Modern Tokyo Restaurant Cafe**: `10.5.50.1`
         - Similarly, the login page is sth else:
           `http://cloud.vnwifi.vn/show/mof-dd-79977?client_mac=64:6B:F9:32:9F:F8&login_url=http%3A//10.5.50.1/login%3Fdst%3Dhttp%253A%252F%252Fdetectportal.firefox.com%252Fcanonical.html&redirect_url=http://detectportal.firefox.com/canonical.html`
+    - **Autogrill Cafe (Tân Sơn Nhất airport)**: `?`
+        - `https://n267.network-auth.com/AutogrillVFS-Fre/hi/C5xhxdfb/grant?continue_url=https%3A%2F%2Fwww.autogrillvfs.com.vn`
